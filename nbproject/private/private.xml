@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/MvcBase/library/SQLQuery.class.php</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/library/template.class.php</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/application/models/item.php</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/application/views/items/viewall.php</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/application/views/items/add.php</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/application/views/items/footer.php</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/.htaccess</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/library/controller.class.php</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/library/model.class.php</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/public/.htaccess</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/config/config.php</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/application/views/items/delete.php</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/library/bootstrap.php</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/application/controllers/itemscontroller.php</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/application/views/items/view.php</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/index.php</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/library/shared.php</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/application/views/items/header.php</file>
+            <file>file:/C:/xampp/htdocs/MvcBase/public/index.php</file>
+        </group>
+    </open-files>
+</project-private>
